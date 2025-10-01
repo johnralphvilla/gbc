@@ -1,6 +1,5 @@
 yaml
 
-title: Demo notes repo
-theme: jekyll-theme-architect
-
+- title: Demo notes repo
+- theme: jekyll-theme-cayman
 
